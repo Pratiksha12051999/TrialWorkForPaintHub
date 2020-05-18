@@ -1,0 +1,72 @@
+.navbar-nav > .active > a {
+    color: yellow;
+  }
+
+.card-body-1
+{
+font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+color:white;
+width: 230px;
+font-size: 18px;
+}
+
+a.custom-card:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+#card1{
+    height: 200px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #47AA5B , #83f725);
+    margin: 20px;
+}
+
+#card2{
+  height: 200px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #2881DD , #add6ff);
+  margin: 20px;
+}
+
+#card4{
+  height: 200px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #36D9D4 , #d4fcfb);
+  margin: 20px;
+}
+
+#card5{
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #B480F4 , #efe5fc);
+}
+
+#card3{
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #F24954 , #fff4f5);
+}
+
+#card6{
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #F89FA5 , #fffce5);
+}
+
+#card7{
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #FF6D10 , #ffd2b7);
+}
+
+#card8{
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #3086D7 , #bdddfc);
+}
